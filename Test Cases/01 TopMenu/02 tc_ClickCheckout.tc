@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Clicking Checkout</description>
+   <name>02 tc_ClickCheckout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8bec814-930e-48de-a986-07328dbca28c</testCaseGuid>
+</TestCaseEntity>
